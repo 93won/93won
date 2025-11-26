@@ -10,7 +10,7 @@
 #### 📷 Visual-Inertial Odometry (VIO)
 - ⭐ <img src="https://img.shields.io/github/stars/93won/lightweight_vio?style=flat-square" align="center"/> [**lightweight_vio**](https://github.com/93won/lightweight_vio) : Lightweight Stereo VIO implementation <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
 - ⭐ <img src="https://img.shields.io/github/stars/93won/vio_ros_wrapper?style=flat-square" align="center"/>&nbsp;&nbsp; [**vio_ros_wrapper**](https://github.com/93won/vio_ros_wrapper) : ROS wrapper for the Stereo VIO system <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
-- ⭐ <img src="https://img.shields.io/github/stars/93won/360_visual_inertial_odometry?style=flat-square" align="center"/>&nbsp;&nbsp;&nbsp;&nbsp [**360_visual_inertial_odometry**](https://github.com/93won/360_visual_inertial_odometry) : `🚧 In Progress` Omnidirectional VIO system <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
+- ⭐ <img src="https://img.shields.io/github/stars/93won/360_visual_inertial_odometry?style=flat-square" align="center"/>&nbsp;&nbsp;&nbsp;&nbsp; [**360_visual_inertial_odometry**](https://github.com/93won/360_visual_inertial_odometry) : `🚧 In Progress` Omnidirectional VIO system <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
 
 #### 🚗 Lidar SLAM
 - ⭐ <img src="https://img.shields.io/github/stars/93won/lidar_odometry?style=flat-square" align="center"/> [**lidar_odometry**](https://github.com/93won/lidar_odometry) : Core Lidar SLAM implementation <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
