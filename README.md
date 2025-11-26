@@ -16,7 +16,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/lightweight_vio"><b>lightweight_vio</b></a>
     </td>
-    <td width="400" valign="middle">
+    <td valign="middle">
       Lightweight Stereo VIO implementation
     </td>
     <td width="120" align="center" valign="middle">
@@ -30,7 +30,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/vio_ros_wrapper"><b>vio_ros_wrapper</b></a>
     </td>
-    <td width="400" valign="middle">
+    <td valign="middle">
       ROS wrapper for the Stereo VIO system
     </td>
     <td width="120" align="center" valign="middle">
@@ -44,7 +44,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/360_visual_inertial_odometry"><b>360_visual_inertial_odometry</b></a>
     </td>
-    <td width="400" valign="middle">
+    <td valign="middle">
       <code>🚧 In Progress</code> Omnidirectional VIO system
     </td>
     <td width="120" align="center" valign="middle">
@@ -62,7 +62,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/lidar_odometry"><b>lidar_odometry</b></a>
     </td>
-    <td width="400" valign="middle">
+    <td valign="middle">
       Core Lidar SLAM implementation
     </td>
     <td width="120" align="center" valign="middle">
@@ -76,7 +76,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/lidar_odometry_ros_wrapper"><b>lidar_odometry_ros_wrapper</b></a>
     </td>
-    <td width="400" valign="middle">
+    <td valign="middle">
       ROS wrapper for Lidar SLAM
     </td>
     <td width="120" align="center" valign="middle">
@@ -90,7 +90,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/lidar_odometry_for_beginner"><b>lidar_odometry_for_beginner</b></a>
     </td>
-    <td width="400" valign="middle">
+    <td valign="middle">
       Educational resource for Lidar SLAM odometry
     </td>
     <td width="120" align="center" valign="middle">
@@ -108,7 +108,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/lidar_inertial_odometry"><b>lidar_inertial_odometry</b></a>
     </td>
-    <td width="400" valign="middle">
+    <td valign="middle">
       Tightly-coupled Lidar-Inertial Odometry
     </td>
     <td width="120" align="center" valign="middle">
@@ -122,7 +122,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/lio_ros_wrapper"><b>lio_ros_wrapper</b></a>
     </td>
-    <td width="400" valign="middle">
+    <td valign="middle">
       ROS wrapper for LIO
     </td>
     <td width="120" align="center" valign="middle">
