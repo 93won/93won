@@ -10,35 +10,44 @@
 #### 📷 Visual-Inertial Odometry (VIO)
 <table>
   <tr>
-    <td width="120">
+    <td width="120" valign="middle">
       ⭐ <img src="https://img.shields.io/github/stars/93won/lightweight_vio?style=flat-square" align="center"/>
     </td>
-    <td>
-      <a href="https://github.com/93won/lightweight_vio"><b>lightweight_vio</b></a> : Lightweight Stereo VIO implementation
+    <td width="250" valign="middle">
+      <a href="https://github.com/93won/lightweight_vio"><b>lightweight_vio</b></a>
     </td>
-    <td width="120" align="center">
+    <td valign="middle">
+      Lightweight Stereo VIO implementation
+    </td>
+    <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
     </td>
   </tr>
   <tr>
-    <td width="120">
+    <td width="120" valign="middle">
       ⭐ <img src="https://img.shields.io/github/stars/93won/vio_ros_wrapper?style=flat-square" align="center"/>
     </td>
-    <td>
-      <a href="https://github.com/93won/vio_ros_wrapper"><b>vio_ros_wrapper</b></a> : ROS wrapper for the Stereo VIO system
+    <td width="250" valign="middle">
+      <a href="https://github.com/93won/vio_ros_wrapper"><b>vio_ros_wrapper</b></a>
     </td>
-    <td width="120" align="center">
+    <td valign="middle">
+      ROS wrapper for the Stereo VIO system
+    </td>
+    <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
     </td>
   </tr>
   <tr>
-    <td width="120">
+    <td width="120" valign="middle">
       ⭐ <img src="https://img.shields.io/github/stars/93won/360_visual_inertial_odometry?style=flat-square" align="center"/>
     </td>
-    <td>
-      <a href="https://github.com/93won/360_visual_inertial_odometry"><b>360_visual_inertial_odometry</b></a> : <code>🚧 In Progress</code> Omnidirectional VIO system
+    <td width="250" valign="middle">
+      <a href="https://github.com/93won/360_visual_inertial_odometry"><b>360_visual_inertial_odometry</b></a>
     </td>
-    <td width="120" align="center">
+    <td valign="middle">
+      <code>🚧 In Progress</code> Omnidirectional VIO system
+    </td>
+    <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
     </td>
   </tr>
@@ -47,35 +56,44 @@
 #### 🚗 Lidar SLAM
 <table>
   <tr>
-    <td width="120">
+    <td width="120" valign="middle">
       ⭐ <img src="https://img.shields.io/github/stars/93won/lidar_odometry?style=flat-square" align="center"/>
     </td>
-    <td>
-      <a href="https://github.com/93won/lidar_odometry"><b>lidar_odometry</b></a> : Core Lidar SLAM implementation
+    <td width="250" valign="middle">
+      <a href="https://github.com/93won/lidar_odometry"><b>lidar_odometry</b></a>
     </td>
-    <td width="120" align="center">
+    <td valign="middle">
+      Core Lidar SLAM implementation
+    </td>
+    <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
     </td>
   </tr>
   <tr>
-    <td width="120">
+    <td width="120" valign="middle">
       ⭐ <img src="https://img.shields.io/github/stars/93won/lidar_odometry_ros_wrapper?style=flat-square" align="center"/>
     </td>
-    <td>
-      <a href="https://github.com/93won/lidar_odometry_ros_wrapper"><b>lidar_odometry_ros_wrapper</b></a> : ROS wrapper for Lidar SLAM
+    <td width="250" valign="middle">
+      <a href="https://github.com/93won/lidar_odometry_ros_wrapper"><b>lidar_odometry_ros_wrapper</b></a>
     </td>
-    <td width="120" align="center">
+    <td valign="middle">
+      ROS wrapper for Lidar SLAM
+    </td>
+    <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
     </td>
   </tr>
   <tr>
-    <td width="120">
+    <td width="120" valign="middle">
       ⭐ <img src="https://img.shields.io/github/stars/93won/lidar_odometry_for_beginner?style=flat-square" align="center"/>
     </td>
-    <td>
-      <a href="https://github.com/93won/lidar_odometry_for_beginner"><b>lidar_odometry_for_beginner</b></a> : Educational resource for Lidar SLAM odometry
+    <td width="250" valign="middle">
+      <a href="https://github.com/93won/lidar_odometry_for_beginner"><b>lidar_odometry_for_beginner</b></a>
     </td>
-    <td width="120" align="center">
+    <td valign="middle">
+      Educational resource for Lidar SLAM odometry
+    </td>
+    <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
     </td>
   </tr>
@@ -84,24 +102,30 @@
 #### 🧭 Lidar-Inertial Odometry (LIO)
 <table>
   <tr>
-    <td width="120">
+    <td width="120" valign="middle">
       ⭐ <img src="https://img.shields.io/github/stars/93won/lidar_inertial_odometry?style=flat-square" align="center"/>
     </td>
-    <td>
-      <a href="https://github.com/93won/lidar_inertial_odometry"><b>lidar_inertial_odometry</b></a> : Tightly-coupled Lidar-Inertial Odometry
+    <td width="250" valign="middle">
+      <a href="https://github.com/93won/lidar_inertial_odometry"><b>lidar_inertial_odometry</b></a>
     </td>
-    <td width="120" align="center">
+    <td valign="middle">
+      Tightly-coupled Lidar-Inertial Odometry
+    </td>
+    <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
     </td>
   </tr>
   <tr>
-    <td width="120">
+    <td width="120" valign="middle">
       ⭐ <img src="https://img.shields.io/github/stars/93won/lio_ros_wrapper?style=flat-square" align="center"/>
     </td>
-    <td>
-      <a href="https://github.com/93won/lio_ros_wrapper"><b>lio_ros_wrapper</b></a> : ROS wrapper for LIO
+    <td width="250" valign="middle">
+      <a href="https://github.com/93won/lio_ros_wrapper"><b>lio_ros_wrapper</b></a>
     </td>
-    <td width="120" align="center">
+    <td valign="middle">
+      ROS wrapper for LIO
+    </td>
+    <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
     </td>
   </tr>
@@ -110,23 +134,29 @@
 #### 🎨 Gaussian Splatting
 <table>
   <tr>
-    <td width="120">
+    <td width="120" valign="middle">
       ⭐ <img src="https://img.shields.io/github/stars/93won/gaussian_splat_engine?style=flat-square" align="center"/>
     </td>
-    <td>
-      <a href="https://github.com/93won/gaussian_splat_engine"><b>gaussian_splat_engine</b></a> : <code>🚧 In Progress</code> Custom engine for 3D Gaussian Splatting.
+    <td width="250" valign="middle">
+      <a href="https://github.com/93won/gaussian_splat_engine"><b>gaussian_splat_engine</b></a>
     </td>
-    <td width="120" align="center">
+    <td valign="middle">
+      <code>🚧 In Progress</code> Custom engine for 3D Gaussian Splatting.
+    </td>
+    <td width="120" align="center" valign="middle">
       </td>
   </tr>
   <tr>
-    <td width="120">
+    <td width="120" valign="middle">
       ⭐ <img src="https://img.shields.io/github/stars/93won/monocular_gaussian_splatting_slam_benchmark?style=flat-square" align="center"/>
     </td>
-    <td>
-      <a href="https://github.com/93won/monocular_gaussian_splatting_slam_benchmark"><b>monocular_gaussian_splatting_slam_benchmark</b></a> : <code>🚧 In Progress</code> Benchmark tools for Monocular GS SLAM.
+    <td width="250" valign="middle">
+      <a href="https://github.com/93won/monocular_gaussian_splatting_slam_benchmark"><b>monocular_gaussian_splatting_slam_benchmark</b></a>
     </td>
-    <td width="120" align="center">
-       </td>
+    <td valign="middle">
+      <code>🚧 In Progress</code> Benchmark tools for Monocular GS SLAM.
+    </td>
+    <td width="120" align="center" valign="middle">
+      </td>
   </tr>
 </table>
