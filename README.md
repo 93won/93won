@@ -123,7 +123,7 @@
       <a href="https://github.com/93won/lio_ros_wrapper"><b>lio_ros_wrapper</b></a>
     </td>
     <td valign="middle">
-      ROS wrapper for LIO
+      ROS wrapper for Lidar-Inertial Odometry
     </td>
     <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
