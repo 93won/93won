@@ -18,8 +18,8 @@
 - ⭐ <img src="https://img.shields.io/github/stars/93won/lidar_odometry_for_beginner?style=flat-square" align="center"/> [**lidar_odometry_for_beginner**](https://github.com/93won/lidar_odometry_for_beginner) : Educational resource for Lidar SLAM odometry <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
 
 #### 🧭 Lidar-Inertial Odometry (LIO)
-- ⭐ <img src="https://img.shields.io/github/stars/93won/lidar_inertial_odometry?style=flat-square" align="center"/>&nbsp;&nbsp;&nbsp;&nbsp; [**lidar_inertial_odometry**](https://github.com/93won/lidar_inertial_odometry) : Tightly-coupled Lidar-Inertial Odometry <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
-- ⭐ <img src="https://img.shields.io/github/stars/93won/lio_ros_wrapper?style=flat-square" align="center"/>&nbsp;&nbsp;&nbsp;&nbsp; [**lio_ros_wrapper**](https://github.com/93won/lio_ros_wrapper) : ROS wrapper for LIO <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
+- ⭐ <img src="https://img.shields.io/github/stars/93won/lidar_inertial_odometry?style=flat-square" align="center"/> [**lidar_inertial_odometry**](https://github.com/93won/lidar_inertial_odometry) : Tightly-coupled Lidar-Inertial Odometry <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
+- ⭐ <img src="https://img.shields.io/github/stars/93won/lio_ros_wrapper?style=flat-square" align="center"/>&nbsp;&nbsp; [**lio_ros_wrapper**](https://github.com/93won/lio_ros_wrapper) : ROS wrapper for LIO <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
 
 #### 🎨 Gaussian Splatting
 - ⭐ <img src="https://img.shields.io/github/stars/93won/gaussian_splat_engine?style=flat-square" align="center"/>&nbsp;&nbsp;&nbsp;&nbsp; [**gaussian_splat_engine**](https://github.com/93won/gaussian_splat_engine) : `🚧 In Progress` Custom engine for 3D Gaussian Splatting.
