@@ -9,7 +9,7 @@
 ### 🛠️ Projects & Implementations
 
 #### 📷 Visual-Inertial Odometry (VIO)
-- <img src="https://img.shields.io/github/stars/93won/lightweight_vio?style=flat-square&label=⭐" align="center"/> [**lightweight_vio**](https://github.com/93won/lightweight_vio) : Lightweight Stereo VIO implementation.
+- <img src="https://img.shields.io/github/stars/93won/lightweight_vio?style=flat-square" align="center"/> [**lightweight_vio**](https://github.com/93won/lightweight_vio) : Lightweight Stereo VIO implementation.
 - <img src="https://img.shields.io/github/stars/93won/vio_ros_wrapper?style=flat-square&label=⭐" align="center"/> [**vio_ros_wrapper**](https://github.com/93won/vio_ros_wrapper) : ROS wrapper for the VIO system.
 - <img src="https://img.shields.io/github/stars/93won/360_visual_inertial_odometry?style=flat-square&label=⭐" align="center"/> [**360_visual_inertial_odometry**](https://github.com/93won/360_visual_inertial_odometry) : `🚧 In Progress` Omnidirectional VIO system.
 
