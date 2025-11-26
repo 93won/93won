@@ -38,7 +38,7 @@
 #### 📷 Visual-Inertial Odometry (VIO)
 <table>
   <tr>
-    <td width="85">
+    <td width="100">
       ⭐ <img src="https://img.shields.io/github/stars/93won/lightweight_vio?style=flat-square" align="center"/>
     </td>
     <td>
