@@ -23,4 +23,4 @@
 
 #### 🎨 Gaussian Splatting
 * **[gaussian_splat_engine](https://github.com/93won/gaussian_splat_engine)** `🚧 In Progress`: Custom engine for 3D Gaussian Splatting.
-* **[monocular_gaussian_splatting_slam_benchmark](https://github.com/93won/monocular_gaussian_splatting_slam_benchmark)**: Benchmark tools for Monocular GS SLAM.
+* **[monocular_gaussian_splatting_slam_benchmark](https://github.com/93won/monocular_gaussian_splatting_slam_benchmark)** `🚧 In Progress`: Benchmark tools for Monocular GS SLAM.
