@@ -3,7 +3,7 @@
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/seungwon-choi-468444213/)
 - 📫 You can reach me at: **csw3575@snu.ac.kr**
 - 📄 Google scholar: [Seungwon Choi](https://scholar.google.com/citations?user=ZhHS9w0AAAAJ&hl=ko)
-- ⭐ <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/93won&query=%24.stars&style=flat-square&label=Stars%20Earned" align="center" />
+- ⭐ <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/93won&query=%24.stars&style=flat-square&label=Total%20Stars%20Earned" align="center" />
 
 
 ### 🛠️ Projects & Implementations
