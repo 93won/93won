@@ -4,7 +4,7 @@
 - 📫 You can reach me at: **csw3575@snu.ac.kr**
 - 📄 Google scholar: [Seungwon Choi](https://scholar.google.com/citations?user=ZhHS9w0AAAAJ&hl=ko)
 
-[![Seungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=93won&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Seungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=93won&show_icons=true&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ Projects & Implementations
 
