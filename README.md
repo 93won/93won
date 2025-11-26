@@ -17,7 +17,7 @@
       <a href="https://github.com/93won/lightweight_vio"><b>lightweight_vio</b></a>
     </td>
     <td valign="middle">
-      Lightweight Stereo VIO implementation
+      Lightweight stereo VIO implementation
     </td>
     <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
@@ -31,7 +31,7 @@
       <a href="https://github.com/93won/vio_ros_wrapper"><b>vio_ros_wrapper</b></a>
     </td>
     <td valign="middle">
-      ROS wrapper for the Stereo VIO system
+      ROS wrapper for the stereo VIO system
     </td>
     <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
@@ -141,7 +141,7 @@
       <a href="https://github.com/93won/gaussian_splat_engine"><b>gaussian_splat_engine</b></a>
     </td>
     <td valign="middle">
-      <code>🚧 In Progress</code> CUDA-based Custom engine for 3D Gaussian Splatting.
+      <code>🚧 In Progress</code> CUDA-based custom engine for 3D Gaussian Splatting.
     </td>
   </tr>
   <tr>
