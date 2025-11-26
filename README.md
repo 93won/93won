@@ -141,7 +141,7 @@
       <a href="https://github.com/93won/gaussian_splat_engine"><b>gaussian_splat_engine</b></a>
     </td>
     <td valign="middle">
-      <code>🚧 In Progress</code> Custom engine for 3D Gaussian Splatting.
+      <code>🚧 In Progress</code> CUDA-based Custom engine for 3D Gaussian Splatting.
     </td>
   </tr>
   <tr>
