@@ -91,7 +91,7 @@
       <a href="https://github.com/93won/lidar_odometry_for_beginner"><b>lidar_odometry_for_beginner</b></a>
     </td>
     <td valign="middle">
-      Educational resource for Lidar SLAM odometry
+      Educational resource for Lidar odometry
     </td>
     <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
