@@ -31,7 +31,7 @@
       <a href="https://github.com/93won/vio_ros_wrapper"><b>vio_ros_wrapper</b></a>
     </td>
     <td valign="middle">
-      ROS wrapper for the stereo VIO system
+      ROS wrapper for the stereo VIO
     </td>
     <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
@@ -45,7 +45,7 @@
       <a href="https://github.com/93won/360_visual_inertial_odometry"><b>360_visual_inertial_odometry</b></a>
     </td>
     <td valign="middle">
-      <code>🚧 In Progress</code> Omnidirectional VIO system
+      <code>🚧 In Progress</code> Omnidirectional VIO
     </td>
     <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
