@@ -1,9 +1,13 @@
 ### Hey, I'm Seungwon! 👋
 
+<a href="https://github.com/93won">
+  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=93won&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/seungwon-choi-468444213/)
 - 📫 You can reach me at: **csw3575@snu.ac.kr**
 - 📄 Google scholar: [Seungwon Choi](https://scholar.google.com/citations?user=ZhHS9w0AAAAJ&hl=ko)
-- ⭐ <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/93won&query=%24.stars&style=flat-square&label=Total%20Stars%20Earned" align="center" />
+<br clear="all">
 
 ### 🛠️ Projects & Implementations
 
