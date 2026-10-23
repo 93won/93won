@@ -102,30 +102,3 @@
     </td>
   </tr>
 </table>
-
-#### 🎨 Gaussian Splatting
-<table>
-  <tr>
-    <td width="120" valign="middle">
-      ⭐ <img src="https://img.shields.io/github/stars/93won/gaussian_splat_engine?style=flat-square" align="center"/>
-    </td>
-    <td width="250" valign="middle">
-      <a href="https://github.com/93won/gaussian_splat_engine"><b>gaussian_splat_engine</b></a>
-    </td>
-    <td valign="middle">
-      <code>🚧 In Progress</code> CUDA-based custom engine for 3D Gaussian Splatting.
-    </td>
-  </tr>
-  <tr>
-    <td width="120" valign="middle">
-      ⭐ <img src="https://img.shields.io/github/stars/93won/monocular_gaussian_splatting_slam_benchmark?style=flat-square" align="center"/>
-    </td>
-    <td width="250" valign="middle">
-      <a href="https://github.com/93won/monocular_gaussian_splatting_slam_benchmark"><b>monocular_gaussian_splatting_slam_benchmark</b></a>
-    </td>
-    <td valign="middle">
-      <code>🚧 In Progress</code> Benchmark tools for Monocular GS SLAM.
-    </td>
-  </tr>
-</table>
-
