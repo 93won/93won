@@ -17,7 +17,7 @@
       <a href="https://github.com/93won/openvio"><b>openvio</b></a>
     </td>
     <td valign="middle">
-      Visual-inertial odometry for a wide range of camera models
+      Visual-Inertial Odometry for any camera
     </td>
     <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
