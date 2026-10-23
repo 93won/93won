@@ -11,41 +11,13 @@
 <table>
   <tr>
     <td width="120" valign="middle">
-      ⭐ <img src="https://img.shields.io/github/stars/93won/lightweight_vio?style=flat-square" align="center"/>
+      ⭐ <img src="https://img.shields.io/github/stars/93won/openvio?style=flat-square" align="center"/>
     </td>
     <td width="250" valign="middle">
-      <a href="https://github.com/93won/lightweight_vio"><b>lightweight_vio</b></a>
+      <a href="https://github.com/93won/openvio"><b>openvio</b></a>
     </td>
     <td valign="middle">
-      Lightweight stereo VIO implementation
-    </td>
-    <td width="120" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="120" valign="middle">
-      ⭐ <img src="https://img.shields.io/github/stars/93won/vio_ros_wrapper?style=flat-square" align="center"/>
-    </td>
-    <td width="250" valign="middle">
-      <a href="https://github.com/93won/vio_ros_wrapper"><b>vio_ros_wrapper</b></a>
-    </td>
-    <td valign="middle">
-      ROS wrapper for the stereo VIO
-    </td>
-    <td width="120" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="120" valign="middle">
-      ⭐ <img src="https://img.shields.io/github/stars/93won/360_visual_inertial_odometry?style=flat-square" align="center"/>
-    </td>
-    <td width="250" valign="middle">
-      <a href="https://github.com/93won/360_visual_inertial_odometry"><b>360_visual_inertial_odometry</b></a>
-    </td>
-    <td valign="middle">
-      <code>🚧 In Progress</code> Omnidirectional VIO
+      Visual-inertial odometry for a wide range of camera models
     </td>
     <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
