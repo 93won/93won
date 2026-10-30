@@ -16,7 +16,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/openvio"><b>openvio</b></a>
     </td>
-    <td valign="middle">
+    <td width="350" valign="middle">
       Versatile Visual-Inertial Odometry
     </td>
     <td width="120" align="center" valign="middle">
@@ -34,7 +34,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/lidar_odometry"><b>lidar_odometry</b></a>
     </td>
-    <td valign="middle">
+    <td width="350" valign="middle">
       Core Lidar SLAM implementation
     </td>
     <td width="120" align="center" valign="middle">
@@ -48,7 +48,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/lidar_odometry_ros_wrapper"><b>lidar_odometry_ros_wrapper</b></a>
     </td>
-    <td valign="middle">
+    <td width="350" valign="middle">
       ROS wrapper for Lidar SLAM
     </td>
     <td width="120" align="center" valign="middle">
@@ -62,7 +62,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/lidar_odometry_for_beginner"><b>lidar_odometry_for_beginner</b></a>
     </td>
-    <td valign="middle">
+    <td width="350" valign="middle">
       Educational resource for Lidar odometry
     </td>
     <td width="120" align="center" valign="middle">
@@ -80,7 +80,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/lidar_inertial_odometry"><b>lidar_inertial_odometry</b></a>
     </td>
-    <td valign="middle">
+    <td width="350" valign="middle">
       Tightly-coupled Lidar-Inertial Odometry
     </td>
     <td width="120" align="center" valign="middle">
@@ -94,7 +94,7 @@
     <td width="250" valign="middle">
       <a href="https://github.com/93won/lio_ros_wrapper"><b>lio_ros_wrapper</b></a>
     </td>
-    <td valign="middle">
+    <td width="350" valign="middle">
       ROS wrapper for Lidar-Inertial Odometry
     </td>
     <td width="120" align="center" valign="middle">
