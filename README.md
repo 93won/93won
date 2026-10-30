@@ -17,7 +17,7 @@
       <a href="https://github.com/93won/openvio"><b>openvio</b></a>
     </td>
     <td width="350" valign="middle">
-      A Versatile Visual-Inertial Odometry
+      Versatile Visual-Inertial Odometry
     </td>
     <td width="120" align="center" valign="middle">
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" align="center"/>
